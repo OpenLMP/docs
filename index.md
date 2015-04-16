@@ -2,7 +2,7 @@
 
 ## Location & Messaging Protocol
 
-Location & Messaging Protocol (LMP) is protocol that provides a framework to allow applications and systems to share location or communicate between entities and devices.
+Location & Messaging Protocol (LMP) is a protocol that provides a framework to allow applications and systems to share location or communicate between entities and devices.
 
 OpenLMP uses HTTPS protocol as the layer of transport.
 
