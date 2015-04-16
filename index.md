@@ -4,10 +4,11 @@
 
 Location & Messaging Protocol (LMP) is a protocol that provides a framework to allow applications and systems to share location or communicate between entities and devices.
 
-OpenLMP uses HTTPS protocol as the layer of transport.
+OpenLMP uses [HTTP](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) verbs and a [RESTful](http://en.wikipedia.org/wiki/Representational_state_transfer) endpoint structure. [OAuth 2.0](http://en.wikipedia.org/wiki/OAuth) is used as the API authorization framework. Request and response payloads are formatted as [JSON](http://en.wikipedia.org/wiki/JSON).
 
 ## Contents
 
+* [Authentication API](authentication.md)
 * [Entity API](entity.md)
 * [Device API](device.md)
 * [Status API](status.md)
