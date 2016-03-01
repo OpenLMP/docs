@@ -13,7 +13,7 @@ Example :
 ~~~
 GET /v1/entities/foo HTTP/1.1
 Host: server.example.com
-Authorization: [Bearer Token]
+Authorization: Bearer [Token]
 ~~~
 
 ## Get an access token
